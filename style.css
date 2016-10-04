@@ -10,3 +10,10 @@
   border: none;
 
 }
+
+.footer-background {
+  background-color: #292929;
+  padding-top: 20px;
+  color: white;
+  padding-bottom: 20px;
+}
